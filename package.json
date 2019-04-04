@@ -2,7 +2,7 @@
     "name": "cppcolorizationupgrade",
     "displayName": "C++ Colorization Upgrade",
     "description": "C/C++ lacks colorization of namespaces, Camel Cased class names and functions. This extension adds it. Works with standard themes",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "thewolfs",
     "repository": {
         "type": "git",

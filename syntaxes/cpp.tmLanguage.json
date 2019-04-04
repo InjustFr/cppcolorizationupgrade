@@ -26,6 +26,10 @@
         "symbols": {
             "patterns": [
                 {
+                    "name": "string.quoted.other.lt-gt.include.c",
+                    "match": "<[^\"<>]*>"
+                },
+                {
                     "name": "string.quoted.double.cpp",
                     "match": "\"[^\"]*\""
                 },
